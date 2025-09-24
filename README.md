@@ -4,9 +4,7 @@
 Proyek ini bertujuan untuk mengimplementasikan arsitektur **EfficientNetV2-S** dalam tugas klasifikasi citra rempah.  
 Klasifikasi dilakukan pada 8 kelas rempah: **Andaliman, Biji Ketumbar, Lada, Kemukus, Jahe, Kencur, Kunyit, dan Lengkuas**.
 
-ataset yang digunakan berasal dari Kaggle:  
-👉 [Spices Image Dataset]([https://www.kaggle.com/datasets/username/spices-dataset](https://www.kaggle.com/datasets/albertnathaniel12/indonesian-spices-dataset))  
-
+Dataset yang digunakan dapat diunduh melalui [Kaggle](https://www.kaggle.com/datasets/albertnathaniel12/indonesian-spices-dataset)
 - Total data: 1400 gambar (175 gambar per kelas)  
 - Jumlah kelas: 8 kelas (Andaliman, Biji Ketumber, Lada, Kemukus, Jahe, Kencur, Kunyit, Lengkuas)  
 - Data dibagi menjadi **train**, **validation**, dan **test** set.  
