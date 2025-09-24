@@ -1,0 +1,1 @@
+# Implementasi-Arsitektur-EfficientNetV2-S-untuk-Klasifikasi-Citra-Rempah
